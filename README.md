@@ -1,6 +1,6 @@
 # a Bot For get Customer Message and Answer Them .
 ---
-> [watch this video if you want to know how this code written](https://youtu.be/zC9hKqEbR20)
+> [▶️ watch this video if you want to know how this code written](https://youtu.be/zC9hKqEbR20)
 ---
 ## ⚙️ Configuration
 Before running the bot,set the following values:
